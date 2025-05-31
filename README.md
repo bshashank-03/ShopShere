@@ -9,3 +9,9 @@
 <li>Role-Based Access Control: Define roles and permissions for different user types.</li>
 <li>Thymeleaf Templates: Utilizes Thymeleaf for dynamic HTML templates.</li>
 <li>Database Integration: Integrated with MySQL for data storage and retrieval.</li>
+
+<h1> Technology Stack </h1>
+<li> Backend: Spring Boot, Java 8, Spring MVC, Spring Data JPA (Hibernate) </li>
+<li> Frontend: Thymeleaf, HTML, CSS, JavaScript </li>
+<li> Database: MySQL </li>
+<li> IDE: Eclipse, Spring Tool Suite (STS) </li>
